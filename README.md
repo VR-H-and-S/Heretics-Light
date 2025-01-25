@@ -48,7 +48,7 @@ List any dependencies or software needed:
 - SteamVR (or equivalent VR Platform)
 
 ### **Installation**
-Provide step-by-step instructions for cloning and running the project:
+Instructions for cloning and running the project:
 
 1. Clone the repository:  
    ```bash
