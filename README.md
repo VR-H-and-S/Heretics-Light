@@ -106,7 +106,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   We would like to thank the following individuals and resources for their contributions and inspiration:
   - **Herbert Wertheim College of Engineering**: For their Computer & Information Science & Engineering (CISE) program.
   - **Dr. Sanethia Thomas**: Special thanks to Dr. Thomas for approving and overseeing the Senior Project program.
-  - **Brett Benda**: Special thanks to professor Benda for advising and providing guidance over this project.
+  - **Brett Benda**: Special thanks to professor Benda for advising and providing guidance over Heretic's Light.
   - **Playtesters**: For their valuable feedback in identifying bugs and improving the gameplay experience.
   - **Unity Technologies**: For providing an incredible game development platform.
   - **GitHub**: For hosting this project and enabling collaboration.  
