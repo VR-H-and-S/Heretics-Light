@@ -63,7 +63,7 @@ Provide step-by-step instructions for cloning and running the project:
    - Click on **Project Settings**
    - Select **XR Plug-in Management**
    - Check **OpenXR** in **Plug-in Providers**
-6. Add **Enabled Interaction Profiles**
+6. Add device in the **Enabled Interaction Profiles**
 7. Press the **Play** button in Unity to start testing the game.
 
 ---
