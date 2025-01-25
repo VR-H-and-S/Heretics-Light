@@ -25,7 +25,7 @@ This project is an asymmetric multiplayer game developed in Unity. It was made b
 - Random Dungeon Generation.
 - Tight 2D platforming.
 - Classic 16-bit platforming.
-- Asymmetric VR multiplayer..
+- Asymmetric VR multiplayer.
 
 ---
 
