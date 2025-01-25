@@ -17,7 +17,7 @@
 ---
 
 ## **About the Project**
-This project is an asymmetric multiplayer game developed in Unity. It was made by the CIS4914 Spring 2025 VR H&S team for their Senior Project.
+This project is an asymmetric multiplayer game developed in Unity. It was made by the (CIS4914 Spring 2025) VR H&S team for their Senior Project.
 
 ---
 
