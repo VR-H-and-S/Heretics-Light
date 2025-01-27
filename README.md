@@ -85,7 +85,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Developer/VR H&S**  
 
 - GitHub:
-  - [@username](https://github.com/username)  
+  - [@Renzo Vallejos](https://github.com/RenzoVallejos)  
   - [@Surpris "Jack" Mezardieu](https://github.com/EmptySet-Exe)  
 
 **Director/VR H&S**  
